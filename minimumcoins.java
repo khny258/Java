@@ -33,4 +33,4 @@ class coin
 	int V = 11; 
 	System.out.println("Minimum coins required is "+ minCoins(coins, m, V) ); 
 	} 
-}/* This code is contributed by Rajat Mishra */
+}
